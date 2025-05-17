@@ -1,4 +1,4 @@
-# [`discordjs-template`](https://github.com/krr4m/discordjs-template)
+# [`discordjs-template`](https://github.com/deouf-dev/discordjs-template)
 
 ---
 
